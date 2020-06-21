@@ -168,7 +168,7 @@ def findParagrafoUnico(artigo):
             for j in range(i+1, len(artigo)):
                 sub_string = artigo[j].strip()
 
-                if(isAlinea(sub_string) or isItem(sub_string)):
+                if(isAlinea(sub_string) or isItem(sub_string) or isInciso(sub_string)):
                     parag.append(sub_string)
                 
                 else:
