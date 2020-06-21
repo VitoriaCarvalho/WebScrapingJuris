@@ -51,7 +51,7 @@ Agora é só inserir as informações necessárias para a realização da consul
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/VitoriaCarvalho/VisaoComputacional/blob/master/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/VitoriaCarvalho/WebScrapingJuris/blob/master/LICENSE) para mais detalhes.
 
 ---
 
